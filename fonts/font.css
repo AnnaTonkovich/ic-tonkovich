@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'YesevaOne';
+	font-style: normal;
+	font-weight: 300;
+	src: local('YesevaOne-Regular'),
+		url('YesevaOne-Regular.woff') format(woff);
+}
+
+@font-face {
+	font-family: 'NunitoSans-Italic';
+	font-style: normal;
+	font-weight: 300;
+	src: local('NunitoSans_7pt-Italic'),
+		url('NunitoSans_7pt-Italic.woff') format(woff);
+}
+
+@font-face {
+	font-family: 'NunitoSans-Regular';
+	font-style: normal;
+	font-weight: 400;
+	src: local('NunitoSans_7pt-Regular'),
+		url('NunitoSans_7pt-Regular.woff') format(woff);
+}
